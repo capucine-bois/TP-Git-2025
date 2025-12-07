@@ -85,6 +85,7 @@ Username: votre identifiant GitHub
 Password: collez votre token
 
 ```
+⚠️ Important : avant de pouvoir push vos modifications, les formateurs devront ajouter manuellement votre compte GitHub en tant que collaborateur sur le dépôt. Il faudra donc demander cette étape explicitement avant de tenter le premier push (lever la main et faites nous un grand sourire on saura de quoi il s'agit ☺️).
 
 ---
 
