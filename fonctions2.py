@@ -15,7 +15,7 @@ def noms_binome():
     Attention, chacun écrit la ligne pour afficher son nom
     """
     print("Sergueï")
-    
+    print("Louan")
 
 
 a = 2
