@@ -1,7 +1,7 @@
 
-def addition(x, y):
+def addition(x, y, z):
     """Retourne la somme de x et y"""
-    return x + y
+    return x + y + z
 
 
 def soustraction(x, y):
