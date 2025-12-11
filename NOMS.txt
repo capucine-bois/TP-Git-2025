@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 Capiscine
->>>>>>> d847d1092e101950fe97ad59cfba345536cec0bc
 Rahul
