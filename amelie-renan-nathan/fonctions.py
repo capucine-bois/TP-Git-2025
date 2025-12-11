@@ -14,7 +14,7 @@ def noms_binome():
     Affiche les noms des membres du binôme
     Attention, chacun écrit la ligne pour afficher son nom
     """
-    print(f"Amélie Lombard")
+    print("Amélie Lombard")
     print("Nathan Wallerick")
 
 
